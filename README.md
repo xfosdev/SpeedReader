@@ -4,7 +4,7 @@ is a full-text site browser for Firefox.  It improves your experience when brows
 large amounts of similarly structured web pages (e.g. reading *ALL* stories on a   
 front page.)  
 
-It eliminates many repetive tasks such as link following, tab handling,  
+It eliminates many repetitive tasks such as link following, tab handling,  
 bookmarking and site backtracking.  
 
 You get the whole story, in ❒3D, quickly.   
