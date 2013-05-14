@@ -1,7 +1,7 @@
 Speed Reader
 ============
 is a full-text site browser for Firefox.  It improves your experience when browsing   
-large amounts of similarly structured web pages (e.g. reading *ALL* stories on a   
+large number of similarly formatted web pages (e.g. reading *ALL* stories on a   
 front page.)  
 
 It eliminates many repetitive tasks such as link following, tab handling,  
