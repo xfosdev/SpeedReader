@@ -19,5 +19,7 @@ or [![cnbc](http://www.cnbc.com/favicon.ico)](http://www.cnbc.com/)
   `,` : unmark the story as new  
   `$` : remove all marked stories  
 
-
-_(feedbacks are welcome)_
+  
+  
+  
+###### *[Send Feedback](https://github.com/xfosdev/SpeedReader/issues)*
