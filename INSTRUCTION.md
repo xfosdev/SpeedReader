@@ -19,7 +19,6 @@ or [![cnbc](http://www.cnbc.com/favicon.ico)](http://www.cnbc.com/)
   `,` : unmark the current story  
   `$` : remove all read stories    
 
-  
-  
+- valuable [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)
   
 ###### *[Send Feedback](https://github.com/xfosdev/SpeedReader/issues)*
