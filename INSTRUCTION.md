@@ -9,15 +9,15 @@ or [![cnbc](http://www.cnbc.com/favicon.ico)](http://www.cnbc.com/)
 
 - type `x` to activate
 
-- _navigate_:     left `j`, right `l`  
-  _scroll_:       down `d`, up `e`  
-  _zoom_:         larger `h`, smaller `n`
+- __navigate__:     left `j`, right `l`  
+  __page__:         down `d`, up `e`  
+  __zoom__:         larger `h`, smaller `n`
 
 - extras  
-  `k` : mark the story as read and advance to next  
-  `i` : mark the story  
-  `,` : unmark the story as new  
-  `$` : remove all marked stories  
+  `k` : mark the current story as read and advance to next  
+  `i` : mark the current story  
+  `,` : unmark the current story  
+  `$` : remove all read stories    
 
   
   
