@@ -20,3 +20,5 @@ for temporary revival
 A: No  
   
   
+  
+###### *[Get More Help](https://github.com/xfosdev/SpeedReader/issues)*
