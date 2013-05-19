@@ -3,8 +3,8 @@ Speed Reader Quick Start
 
 - install the addon from [here](https://addons.mozilla.org/en-US/firefox/addon/GetSpeedReader/)
 
-- visit a supported site, such as [![gothamist](http://gothamist.com/favicon.ico)](http://gothamist.com/)
-or [![cnbc](http://www.cnbc.com/favicon.ico)](http://www.cnbc.com/)  
+- visit a supported site, such as [![gothamist](sites/gothamist.png)](http://gothamist.com/) or 
+[![cnbc](sites/cnbc.png)](http://www.cnbc.com/)
 (allow _xfos.net_ if you are using NoScript)
 
 - type `x` to activate
