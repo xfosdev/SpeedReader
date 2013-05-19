@@ -18,10 +18,16 @@ You get the whole story, in ❒3D, quickly.
        
       
 
-
+[![gothamist](sites/gothamist.png)](http://gothamist.com/)
+[![cnbc](sites/cnbc.png)](http://www.cnbc.com/)
+<!---
 [![gothamist](http://gothamist.com/favicon.ico)](http://gothamist.com/)
 [![cnbc](http://www.cnbc.com/favicon.ico)](http://www.cnbc.com/)
-<!---
 [![slashdot](http://slashdot.org/favicon.ico)](http://slashdot.org/)
 [![hacker news](https://news.ycombinator.com/favicon.ico)](https://news.ycombinator.com/)
+
+[![gothamist](sites/gothamist.png)](http://gothamist.com/)
+[![cnbc](sites/cnbc.png)](http://www.cnbc.com/)
+[![slashdot](sites/slashdot.png)](http://slashdot.org/)
+[![hacker news](sites/hackernews.png)](https://news.ycombinator.com/)
 --->
