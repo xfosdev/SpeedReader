@@ -22,5 +22,6 @@ You get the whole story, in ❒3D, quickly.
 [![gothamist](http://gothamist.com/favicon.ico)](http://gothamist.com/)
 [![cnbc](http://www.cnbc.com/favicon.ico)](http://www.cnbc.com/)
 <!---
+[![slashdot](http://slashdot.org/favicon.ico)](http://slashdot.org/)
 [![hacker news](https://news.ycombinator.com/favicon.ico)](https://news.ycombinator.com/)
 --->
