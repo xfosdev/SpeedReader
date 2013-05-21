@@ -18,6 +18,7 @@ Speed Reader Quick Start
   `i` : mark the current story  
   `,` : unmark the current story  
   `$` : remove all read stories    
+  `y` : toggle the Speed Reader layer
 
 - helpful [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)
   
