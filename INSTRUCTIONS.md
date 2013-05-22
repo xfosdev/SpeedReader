@@ -8,8 +8,6 @@ Speed Reader Quick Start
 [![cnbc](sites/cnbc.png)](http://www.cnbc.com/) or
 [![slashdot](sites/slashdot.png)](http://slashdot.org/) or
 [![engadget](sites/engadget.png)](http://www.engadget.com/)    
-    
-     
 (allow _xfos.net_ if you are using NoScript)
 
 - type `x` to activate
