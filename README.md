@@ -22,6 +22,7 @@ You get the whole story, in ❒3D, quickly.
 [![cnbc](sites/cnbc.png)](http://www.cnbc.com/)
 [![slashdot](sites/slashdot.png)](http://slashdot.org/)
 [![engadget](sites/engadget.png)](http://www.engadget.com/)
+[![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/)
 <!---
 [![hacker news](sites/hackernews.png)](https://news.ycombinator.com/)
 --->
