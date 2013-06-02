@@ -8,7 +8,7 @@ front page.)
 It eliminates many repetitive tasks such as link following, tab handling,  
 bookmarking and site backtracking.  
 
-You get the whole story, in ❒3D, quickly.   
+You get the whole story, in 3D, quickly.   
 
 
 [@testacoda](https://twitter.com/testacoda "@testacoda"),
