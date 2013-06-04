@@ -23,6 +23,7 @@ You get the whole story, in 3D, quickly.
 [![slashdot](sites/slashdot.png)](http://slashdot.org/)
 [![engadget](sites/engadget.png)](http://www.engadget.com/)
 [![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/)
+[![thestarmy](sites/thestarmy.png)](http://thestar.com.my/news/nation/)
 <!---
 [![hacker news](sites/hackernews.png)](https://news.ycombinator.com/)
 --->

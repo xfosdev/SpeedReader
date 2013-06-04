@@ -9,6 +9,7 @@ Speed Reader Quick Start
 [![slashdot](sites/slashdot.png)](http://slashdot.org/) or
 [![engadget](sites/engadget.png)](http://www.engadget.com/) or
 [![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/)      
+[![thestarmy](sites/thestarmy.png)](http://thestar.com.my/news/nation/)    
 (allow _xfos.net_ if you are using NoScript)
 
 - type `x` to activate
@@ -18,11 +19,18 @@ Speed Reader Quick Start
   __zoom__:         larger `h`, smaller `n`
 
 - extras  
+  `m` : load the next batch of stories  
+
   `k` : mark the current story as read and advance to next  
-  `i` : mark the current story  
-  `,` : unmark the current story  
+  `i` : mark the current story   
+  `,` : unmark the current story   
   `$` : remove all read stories    
-  `y` : toggle the Speed Reader layer
+
+  `s` : save current state  
+  `r` : restore last saved state   
+
+  `y` : toggle the Speed Reader layer  
+    
 
 - helpful [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)
   
