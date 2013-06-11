@@ -8,7 +8,7 @@ Speed Reader Quick Start
 [![slashdot](sites/slashdot.png)](http://slashdot.org/) or
 [![engadget](sites/engadget.png)](http://www.engadget.com/) or
 [![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/) or
-[![thestarmy](sites/thestarmy.png)](http://thestar.com.my/news/nation/)    
+[![cnn](sites/cnn.png)](http://edition.cnn.com/?hpt=ed_Intl)    
 (allow _xfos.net_ if you are using NoScript)
 
 - type `x` to activate
@@ -29,6 +29,7 @@ Speed Reader Quick Start
   `r` : restore last saved state   
 
   `y` : toggle the Speed Reader layer  
+  `X` : activate Speed Reader in a new tab  
     
 
 - helpful [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)

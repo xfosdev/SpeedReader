@@ -24,6 +24,7 @@ You get the whole story, in 3D, quickly.
 [![engadget](sites/engadget.png)](http://www.engadget.com/)
 [![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/)
 [![thestarmy](sites/thestarmy.png)](http://thestar.com.my/news/nation/)
+[![cnn](sites/cnn.png)](http://edition.cnn.com/?hpt=ed_Intl)
 <!---
 [![hacker news](sites/hackernews.png)](https://news.ycombinator.com/)
 --->
