@@ -8,7 +8,7 @@ Speed Reader Quick Start
 [![slashdot](sites/slashdot.png)](http://slashdot.org/) or
 [![engadget](sites/engadget.png)](http://www.engadget.com/) or
 [![cnn](sites/cnn.png)](http://edition.cnn.com/)    
-(allow _xfos.net_ if you are using NoScript)
+(allow _xfos.net_ if you are using NoScript, see [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md))  
 
 - type `x` to activate
 
@@ -16,7 +16,7 @@ Speed Reader Quick Start
   __page__:         down `d`, up `e`  
   __zoom__:         larger `h`, smaller `n`
 
-- extras (more in the [User Manual](https://github.com/xfosdev/SpeedReader/blob/master/MANUAL.md))
+- extras (more in the [User Manual](https://github.com/xfosdev/SpeedReader/blob/master/MANUAL.md))  
   `m` : load the next batch of stories  
 
   `k` : mark the current story as read and advance to next  
@@ -25,8 +25,5 @@ Speed Reader Quick Start
   `X` : activate Speed Reader in a new tab  
 
 - - -  
-
-##### [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)  
-
   
 ###### *[Send Feedback](https://github.com/xfosdev/SpeedReader/issues)*
