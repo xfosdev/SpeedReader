@@ -8,7 +8,7 @@ Speed Reader Quick Start
 [![slashdot](sites/slashdot.png)](http://slashdot.org/) or
 [![engadget](sites/engadget.png)](http://www.engadget.com/) or
 [![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/) or
-[![cnn](sites/cnn.png)](http://edition.cnn.com/?hpt=ed_Intl)    
+[![cnn](sites/cnn.png)](http://edition.cnn.com/)    
 (allow _xfos.net_ if you are using NoScript)
 
 - type `x` to activate
