@@ -5,7 +5,7 @@ Speed Reader User Manual
 
 ### Interface
 `x` : activate on-page interface  
-`y` : toggle the  layer  
+`y` : toggle the on-page interface layer  
 `X` : activate external interface in a new tab  
 
 ### Basic
@@ -14,14 +14,14 @@ __page__:         down `d`, up `e`
 __zoom__:         larger `h`, smaller `n`  
 
 ### Reading
-  `m` : load the next batch of stories  
+`m` : load the next batch of stories  
 
-  `k` : mark the current story as read and advance to next  
+`k` : mark the current story as read and advance to next  
 
-  `i` : mark the current story as read  
-  `,` : mark the current story as unread  
+`i` : mark the current story as read  
+`,` : mark the current story as unread  
 
-  `$` : remove all read stories    
+`$` : remove all read stories    
 
 ### Storage
 `s` : save current state  
