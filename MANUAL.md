@@ -7,6 +7,8 @@ Speed Reader User Manual
 `x` : activate on-page interface  
 `y` : toggle the on-page interface layer  
 `X` : activate external interface in a new tab  
+`#` : switch to alternate keyboard layout  
+
 
 ### Basic
 __navigate__:     left `j`, right `l`  
@@ -26,6 +28,7 @@ __zoom__:         larger `h`, smaller `n`
 ### Storage
 `s` : save current state  
 `r` : restore last saved state   
+
     
 
 ### [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)
