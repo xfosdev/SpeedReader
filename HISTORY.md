@@ -2,9 +2,9 @@ Speed Reader Version History
 ============================
 
 v2.0.4 / 2013-06-11  
-- Reduced data serialization overhead
-- Improved handling of site-specific broken JSON implementations
-- Implemented standalone interface
+- Improved data serialization performance
+- More reliable handling of site-specific JSON implementations
+- Added standalone multi-window interface
 
 v2.0.3 / 2013-05-27  
 - Fully support per-window Private Browsing
