@@ -2,6 +2,7 @@ Speed Reader Version History
 ============================
 
 v2.0.5 / 2013-06-17  
+- Support Dvorak keyboard layout
 - Minor bug fix for compatibility  
 
 v2.0.4 / 2013-06-11  
