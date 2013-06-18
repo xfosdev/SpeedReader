@@ -1,6 +1,9 @@
 Speed Reader Version History
 ============================
 
+v2.0.5 / 2013-06-17  
+- Minor bug fix for compatibility  
+
 v2.0.4 / 2013-06-11  
 - Improved data serialization performance
 - More reliable handling of site-specific JSON implementations
