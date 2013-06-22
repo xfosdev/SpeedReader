@@ -23,3 +23,13 @@ v2.0.1 / 2013-05-12
 
 v2.0.0 / 2013-05-12  
 - Initial Firefox release  
+
+
+
+SHA256(SpeedReader-2.0.5.xpi)= a61e42513b8372cf71aceea0a1d000fe507292427dac3dd496406d33263866bc
+SHA256(SpeedReader-2.0.4.xpi)= a18f4ef3fd1efa1eced1508349740c9bc54e7a23729ab00db43553084c039ed0
+SHA256(SpeedReader-2.0.3.xpi)= 997bffa071678d16721d5030a7ae680d27b50cde2be40983eb0976e96155f816
+SHA256(SpeedReader-2.0.2.xpi)= 08592e0a270766c9e433e4f3ae7ef82a827cfc6dd158825d73d952cea94ebd49
+SHA256(SpeedReader-2.0.1.xpi)= a16a7cdcbe5b2f2c8e78ba822e29fc375a88649f33730f588fb7e398fbc00fee
+SHA256(SpeedReader-2.0.0.xpi)= 6bc42201b9eab3c69fe9ee5563e4a8bb61387c00d00785d50d9341211c5d8e3b
+
