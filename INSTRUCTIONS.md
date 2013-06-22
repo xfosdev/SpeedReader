@@ -30,4 +30,4 @@ Speed Reader Quick Start
 
 - - -  
   
-###### *[Send Feedback](https://github.com/xfosdev/SpeedReader/issues)*
+###### *[Send Feedback and Comments](https://github.com/xfosdev/SpeedReader/issues)*, love to hear from you because we care.
