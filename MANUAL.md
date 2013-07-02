@@ -46,7 +46,8 @@ __zoom__:         larger `h`, smaller `n`
 `i` : cycle through groups, hide non-group cards  
 `,` : show all cards  
   
-
+  
+===
 #### [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)
   
 ###### *[Send Feedback](https://github.com/xfosdev/SpeedReader/issues)*
