@@ -28,12 +28,13 @@ __zoom__:         larger `h`, smaller `n`
 ### Storage
 `s` : save current state  
 `r` : restore last saved state   
-
-    
+  
+  
+===
 ## Advanced Usage
 
 ### API Browser Interface
-(for API sites only)  
+(for API sites only, such as [![underscorejs](sites/underscorejs.png)](http://underscorejs.org/))  
   
 `k` : shuffle all cards  
   
