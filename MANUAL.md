@@ -30,7 +30,22 @@ __zoom__:         larger `h`, smaller `n`
 `r` : restore last saved state   
 
     
+## Advanced Usage
 
-### [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)
+### API Browser Interface
+(for API sites only)  
+  
+`k` : shuffle all cards  
+  
+`r` : bring a random card to front  
+  
+`/` : search among visible cards  
+`d` : bring search result to front, one at a time  
+
+`i` : cycle through groups, hide non-group cards  
+`,` : show all cards  
+  
+
+#### [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)
   
 ###### *[Send Feedback](https://github.com/xfosdev/SpeedReader/issues)*
