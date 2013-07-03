@@ -28,12 +28,13 @@ __zoom__:         larger `h`, smaller `n`
 ### Storage
 `s` : save current state  
 `r` : restore last saved state   
-
-    
+  
+  
+===
 ## Advanced Usage
 
 ### API Browser Interface
-(for API sites only)  
+(for API sites only, such as [![underscorejs](sites/underscorejs.png)](http://underscorejs.org/))  
   
 `k` : shuffle all cards  
   
@@ -45,7 +46,8 @@ __zoom__:         larger `h`, smaller `n`
 `i` : cycle through groups, hide non-group cards  
 `,` : show all cards  
   
-
+  
+===
 #### [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)
   
 ###### *[Send Feedback](https://github.com/xfosdev/SpeedReader/issues)*
