@@ -1,7 +1,7 @@
 Speed Reader Quick Start
 ========================
 
-- install the addon from [here](https://github.com/xfosdev/SpeedReader/raw/master/archive/SpeedReader-2.0.5.xpi)
+- [Download](http://testacoda.xfos.net:5252/sa/)
 
 - visit a supported site, such as
 [![cnbc](sites/cnbc.png)](http://www.cnbc.com/) or
