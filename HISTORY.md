@@ -1,6 +1,9 @@
 Speed Reader Version History
 ============================
 
+v3.0.0 / 2013-07-04  
+- Switched to OpenFox
+
 v2.0.5 / 2013-06-17  
 - Support Dvorak keyboard layout
 - Minor bug fix for compatibility  
@@ -25,7 +28,7 @@ v2.0.0 / 2013-05-12
 - Initial Firefox release  
 
 
-
+SHA256(SpeedReader-3.0.0.xpi)= d55306fda4d7ac98d422d98fe4e8544a31a2bc30c51ee8eb63b01b37566763d3
 SHA256(SpeedReader-2.0.5.xpi)= a61e42513b8372cf71aceea0a1d000fe507292427dac3dd496406d33263866bc
 SHA256(SpeedReader-2.0.4.xpi)= a18f4ef3fd1efa1eced1508349740c9bc54e7a23729ab00db43553084c039ed0
 SHA256(SpeedReader-2.0.3.xpi)= 997bffa071678d16721d5030a7ae680d27b50cde2be40983eb0976e96155f816

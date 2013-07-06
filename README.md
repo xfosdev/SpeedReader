@@ -1,7 +1,7 @@
 Speed Reader
 ============
 
-is a full-text site browser for Firefox.  It improves your experience when browsing   
+is a full-text site browser.  It improves your experience when browsing   
 large number of similarly formatted web pages (e.g. reading *ALL* stories on a   
 front page.)  
 
