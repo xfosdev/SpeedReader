@@ -3,9 +3,10 @@ Speed Reader
 
 [Download](http://testacoda.xfos.net:5252/sa/)
 
-is a full-text site browser built on OpenFox.  It improves your experience when browsing   
-large number of similarly formatted web pages (e.g. reading *ALL* stories on a   
-front page.)  
+is a full-text site browser built on [OpenFox](https://github.com/xfosdev/OpenFox).  
+
+It improves your experience when browsing large number of similarly formatted  
+web pages (e.g. reading *ALL* stories on a front page.)  
 
 It eliminates many repetitive tasks such as link following, tab handling,  
 bookmarking and site backtracking.  
