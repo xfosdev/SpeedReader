@@ -8,10 +8,8 @@ is a full-text site browser built on [OpenFox](https://github.com/xfosdev/OpenFo
 It improves your experience when browsing large number of similarly formatted  
 web pages (e.g. reading *ALL* stories on a front page.)  
 
-It eliminates many repetitive tasks such as link following, tab handling,  
-bookmarking and site backtracking.  
-
-You get the whole story, in 3D, quickly.   
+By eliminates many repetitive tasks such as link following, tab handling,  
+bookmarking and site backtracking, you get the whole story, in 3D, quickly.   
 
 
 [@testacoda](https://twitter.com/testacoda "@testacoda"),
