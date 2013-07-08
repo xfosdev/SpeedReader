@@ -4,9 +4,9 @@ Speed Reader Quick Start
 - [Download](http://testacoda.xfos.net:5252/sa/)
 
 - visit a supported site, such as
-[![cnbc](sites/cnbc.png)](http://www.cnbc.com/) or
-[![slashdot](sites/slashdot.png)](http://slashdot.org/) or
 [![engadget](sites/engadget.png)](http://www.engadget.com/) or
+[![slashdot](sites/slashdot.png)](http://slashdot.org/) or
+[![cnbc](sites/cnbc.png)](http://www.cnbc.com/) or
 [![cnn](sites/cnn.png)](http://edition.cnn.com/)    
 (allow _xfos.net_ if you are using NoScript, see [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md))  
 
