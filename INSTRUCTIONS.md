@@ -6,8 +6,8 @@ Speed Reader Quick Start
 - visit a supported site, such as
 [![engadget](sites/engadget.png)](http://www.engadget.com/) or
 [![slashdot](sites/slashdot.png)](http://slashdot.org/) or
-[![cnbc](sites/cnbc.png)](http://www.cnbc.com/) or
-[![cnn](sites/cnn.png)](http://edition.cnn.com/)    
+[![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/) or
+[![underscorejs](sites/underscorejs.png)](http://underscorejs.org/)
 (allow _xfos.net_ if you are using NoScript, see [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md))  
 
 <!---or
