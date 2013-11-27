@@ -1,6 +1,9 @@
 Speed Reader Version History
 ============================
 
+v3.0.3 / 2013-11-27 
+- Added contextual menu for site mapping
+
 v3.0.0 / 2013-07-04  
 - Switched to OpenFox
 

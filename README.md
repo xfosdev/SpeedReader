@@ -3,13 +3,13 @@ Speed Reader
 
 [Download](http://testacoda.xfos.net:5252/sa/)
 
-is a full-text site browser built on [OpenFox](https://github.com/xfosdev/OpenFox).  
+is an information manipulator built on [OpenFox](https://github.com/xfosdev/OpenFox).  
 
 It improves your experience when browsing large number of similarly formatted  
 web pages (e.g. reading *ALL* stories on a front page.)  
 
 By eliminates many repetitive tasks such as link following, tab handling,  
-bookmarking and site backtracking, you get the whole story, in 3D, quickly.   
+bookmarking and site backtracking, you get the whole story, in 2.05D, quickly.   
 
 
 [@testacoda](https://twitter.com/testacoda "@testacoda"),
