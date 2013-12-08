@@ -21,7 +21,6 @@ bookmarking and site backtracking, you get the whole story, in 2.05D, quickly.
 
 [![gothamist](sites/gothamist.png)](http://gothamist.com/)
 [![cnbc](sites/cnbc.png)](http://www.cnbc.com/)
-[![slashdot](sites/slashdot.png)](http://slashdot.org/)
 [![engadget](sites/engadget.png)](http://www.engadget.com/)
 [![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/)
 [![thestarmy](sites/thestarmy.png)](http://thestar.com.my/news/nation/)
@@ -29,5 +28,6 @@ bookmarking and site backtracking, you get the whole story, in 2.05D, quickly.
 [![mykini](sites/mykini.png)](http://www.malaysiakini.com/browse/c/en/news)
 [![underscorejs](sites/underscorejs.png)](http://underscorejs.org/)
 <!---
+[![slashdot](sites/slashdot.png)](http://slashdot.org/)
 [![hacker news](sites/hackernews.png)](https://news.ycombinator.com/)
 --->
