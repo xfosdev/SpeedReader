@@ -1,7 +1,7 @@
 Speed Reader
 ============
 
-[Download](http://testacoda.xfos.net:5252/sa/)
+[Install](http://testacoda.xfos.net:5252/sa/)
 
 is an information manipulator built on [OpenFox](https://github.com/xfosdev/OpenFox).  
 
