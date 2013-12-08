@@ -1,7 +1,7 @@
 Speed Reader Quick Start
 ========================
 
-- [Download](http://testacoda.xfos.net:5252/sa/)
+- [Install](http://testacoda.xfos.net:5252/sa/)
 
 - visit a supported site, such as
 [![engadget](sites/engadget.png)](http://www.engadget.com/) or
