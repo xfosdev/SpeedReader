@@ -4,7 +4,7 @@ Speed Reader Frequently Asked Questions
     
 **Q: Nothing is happening,  what do I do ?**  
 - *Are you using NoScript?*  
-Allow `xfos.net`.
+Disable NoScript.
       
 - *Are you on the full Internet?*  
 Many corporate networks randomly block traffic.  Make sure you can make   

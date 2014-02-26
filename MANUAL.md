@@ -4,9 +4,7 @@ Speed Reader User Manual
 ## Keyboard Usage
 
 ### Interface
-`x` : activate on-page interface  
-`y` : toggle the on-page interface layer  
-`X` : activate external interface in a new tab  
+`y` : activate and toggle the on-page interface layer  
 `#` : switch to alternate keyboard layout  
 
 

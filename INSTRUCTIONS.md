@@ -4,16 +4,17 @@ Speed Reader Quick Start
 - [Install](http://testacoda.xfos.net:5252/sa/)
 
 - visit a supported site, such as
-[![engadget](sites/engadget.png)](http://www.engadget.com/) or
 [![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/) or
 [![underscorejs](sites/underscorejs.png)](http://underscorejs.org/)
-(allow _xfos.net_ if you are using NoScript, see [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md))  
+
+(do not play well with NoScript, see [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md))  
 
 <!---or
+[![engadget](sites/engadget.png)](http://www.engadget.com/) or
 --->
 
   
-- type `x` to activate
+- type `y` to activate
 
 - __navigate__:     left `j`, right `l`  
   __page__:         down `d`, up `e`  
@@ -24,8 +25,6 @@ Speed Reader Quick Start
 
   `k` : mark the current story as read and advance to next  
   `,` : unmark the current story as read  
-
-  `X` : activate Speed Reader in a new tab  
 
 - - -  
   

@@ -1,6 +1,12 @@
 Speed Reader Version History
 ============================
 
+v3.0.5 / 2014-02-25 
+- Updated to latest SDK and 3rd party libraries
+- Addon icon activation
+- Cross-tab content streaming
+- Fixed many bugs
+
 v3.0.3 / 2013-11-27 
 - Added contextual menu for site mapping
 
@@ -30,7 +36,8 @@ v2.0.1 / 2013-05-12
 v2.0.0 / 2013-05-12  
 - Initial Firefox release  
 
-
+SHA256(SpeedReader-3.0.5.xpi)= 570efac47c3462de184618baffd90a76d2d2682359aec687482351b4e110c722
+SHA256(SpeedReader-3.0.3.xpi)= 5abdef4c301dc27ba7b6dc474135c3da23ec9911ce32ddf2dd6285680bec7f22
 SHA256(SpeedReader-3.0.0.xpi)= d55306fda4d7ac98d422d98fe4e8544a31a2bc30c51ee8eb63b01b37566763d3
 SHA256(SpeedReader-2.0.5.xpi)= a61e42513b8372cf71aceea0a1d000fe507292427dac3dd496406d33263866bc
 SHA256(SpeedReader-2.0.4.xpi)= a18f4ef3fd1efa1eced1508349740c9bc54e7a23729ab00db43553084c039ed0
