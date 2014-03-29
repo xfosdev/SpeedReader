@@ -1,12 +1,7 @@
 Speed Reader User Manual
 ========================
 
-## Keyboard Usage
-
-### Interface
-`y` : activate and toggle the on-page interface layer  
-`#` : switch to alternate keyboard layout  
-
+## Bloomberg Economy News Browser
 
 ### Basic
 __navigate__:     left `j`, right `l`  
@@ -27,11 +22,13 @@ __zoom__:         larger `h`, smaller `n`
 `s` : save current state  
 `r` : restore last saved state   
   
+### Misc 
+`y` : activate and toggle the on-page interface layer  
+`#` : switch to alternate keyboard layout  
   
 ===
-## Advanced Usage
 
-### API Browser Interface
+## UnderscoreJS API Browser Interface
 (for API sites only, such as [![underscorejs](sites/underscorejs.png)](http://underscorejs.org/))  
   
 `k` : shuffle all cards  
