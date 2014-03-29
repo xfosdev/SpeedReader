@@ -1,6 +1,10 @@
 Speed Reader Version History
 ============================
 
+v3.0.6 / 2014-03-29 
+- Improved activation behavior
+- Updated for Unity3D API Browser
+
 v3.0.5 / 2014-02-25 
 - Updated to latest SDK and 3rd party libraries
 - Addon icon activation
@@ -36,6 +40,7 @@ v2.0.1 / 2013-05-12
 v2.0.0 / 2013-05-12  
 - Initial Firefox release  
 
+SHA256(SpeedReader-3.0.6.xpi)= 0e2c428245a200f0dfd5de12bd948cd143916170941522a50198c9b42a970a22
 SHA256(SpeedReader-3.0.5.xpi)= 570efac47c3462de184618baffd90a76d2d2682359aec687482351b4e110c722
 SHA256(SpeedReader-3.0.3.xpi)= 5abdef4c301dc27ba7b6dc474135c3da23ec9911ce32ddf2dd6285680bec7f22
 SHA256(SpeedReader-3.0.0.xpi)= d55306fda4d7ac98d422d98fe4e8544a31a2bc30c51ee8eb63b01b37566763d3
