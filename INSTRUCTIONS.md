@@ -8,21 +8,20 @@ Speed Reader Quick Start
 [![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/) or
 [![underscorejs](sites/underscorejs.png)](http://underscorejs.org/)
 
-(do not play well with NoScript, see [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md))  
 
-- click the widget to activate [![widget](sites/widget.png)]()
+- click [![widget](sites/widget.png)] to activate
 
 ### Unity3D Scripting API Browser Interface
   
-`/` : search class
-`#` : search attribute
+`/` : search class  
+`#` : search attribute  
   
-`@` : select class
+`@` : select class  
   
-`r` : select random attribute
-`f` : select random function
+`r` : select random attribute  
+`f` : select random function  
 
-- (more in the [User Manual](https://github.com/xfosdev/SpeedReader/blob/master/MANUAL.md))  
+- (more [User Manual](https://github.com/xfosdev/SpeedReader/blob/master/MANUAL.md))  
 
 - - -  
   
