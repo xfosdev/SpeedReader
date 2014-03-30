@@ -1,7 +1,8 @@
 Speed Reader User Manual
 ========================
 
-## Bloomberg Economy News Browser
+
+## [![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/)  Bloomberg Economy News Browser 
 
 ### Basic
 __navigate__:     left `j`, right `l`  
@@ -28,7 +29,7 @@ __zoom__:         larger `h`, smaller `n`
   
 ===
 
-## UnderscoreJS API Interface
+## [![underscorejs](sites/underscorejs.png)](http://underscorejs.org/)  UnderscoreJS API Interface
   
 `k` : shuffle all cards  
   
@@ -44,7 +45,7 @@ __zoom__:         larger `h`, smaller `n`
 
 ===
 
-### Unity3D API Interface
+### [![unity3d](sites/unity3d.png)](http://docs.unity3d.com/Documentation/ScriptReference/index.html)  Unity3D API Interface
   
 `/` : search class  
 `#` : search attribute  
