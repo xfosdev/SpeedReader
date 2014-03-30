@@ -3,11 +3,7 @@ Speed Reader Quick Start
 
 - [Install](http://testacoda.xfos.net:5252/sa/)
 
-- visit a supported site:
-[![unity3d](sites/unity3d.png)](http://docs.unity3d.com/Documentation/ScriptReference/index.html) 
-[![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/) 
-[![underscorejs](sites/underscorejs.png)](http://underscorejs.org/)
-
+- visit [![unity3d](sites/unity3d.png)](http://docs.unity3d.com/Documentation/ScriptReference/index.html) 
 
 - click ![widget](sites/widget.png)
 
