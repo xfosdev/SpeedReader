@@ -9,7 +9,7 @@ Speed Reader Quick Start
 [![underscorejs](sites/underscorejs.png)](http://underscorejs.org/)
 
 
-- click [![widget](sites/widget.png)] to activate
+- click ![widget](sites/widget.png) to activate
 
 ### Unity3D Scripting API Browser Interface
   
