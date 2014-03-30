@@ -28,8 +28,7 @@ __zoom__:         larger `h`, smaller `n`
   
 ===
 
-## UnderscoreJS API Browser Interface
-(for API sites only, such as [![underscorejs](sites/underscorejs.png)](http://underscorejs.org/))  
+## UnderscoreJS API Interface
   
 `k` : shuffle all cards  
   
@@ -41,7 +40,22 @@ __zoom__:         larger `h`, smaller `n`
 `i` : cycle through groups, hide non-group cards  
 `,` : show all cards  
   
+
+
+===
+
+### Unity3D API Interface
   
+`/` : search class  
+`#` : search attribute  
+  
+`@` : select class  
+  
+`r` : select random attribute  
+`f` : select random function  
+  
+
+
 ===
 #### [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)
   
