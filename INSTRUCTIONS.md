@@ -11,7 +11,7 @@ Speed Reader Quick Start
 
 - click ![widget](sites/widget.png)
 
-### Unity3D Scripting API Browser Interface
+### Unity3D API Interface
   
 `/` : search class  
 `#` : search attribute  
@@ -25,4 +25,4 @@ Speed Reader Quick Start
 
 - - -  
   
-###### *[Send Feedback and Comments](https://github.com/xfosdev/SpeedReader/issues)*, love to hear from you because we care.
+###### *[Send Feedback and Comments](https://github.com/xfosdev/SpeedReader/issues)*
