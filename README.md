@@ -5,8 +5,7 @@ Speed Reader
 
 an automated information manipulator built on [OpenFox](https://github.com/xfosdev/OpenFox).  
 
-It speeds up browsing by loading relevant content automatically hence alleviating  
-tab management and backtracking.
+It speeds up browsing by showing relevant content automatically.
 
 You get the whole story, in 2.05D, quickly.   
 
