@@ -17,7 +17,7 @@ Speed Reader Quick Start
 `r` : select random attribute  
 `f` : select random function  
 
-- (more [User Manual](https://github.com/xfosdev/SpeedReader/blob/master/MANUAL.md))  
+- (more in [User Manual](https://github.com/xfosdev/SpeedReader/blob/master/MANUAL.md))  
 
 - - -  
   

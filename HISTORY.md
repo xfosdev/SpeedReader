@@ -1,6 +1,10 @@
 Speed Reader Version History
 ============================
 
+v3.0.7 / 2014
+- Added hay maker
+
+
 v3.0.6 / 2014-03-29 
 - Improved activation behavior
 - Updated for Unity3D API Browser

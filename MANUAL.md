@@ -2,14 +2,14 @@ Speed Reader User Manual
 ========================
 
 
-## [![bloomberg](sites/bloomberg.png)](http://www.bloomberg.com/news/economy/)  Bloomberg Economy News Browser 
+### [![bloomberg](sites/sq_bloomberg.png)](http://www.bloomberg.com/news/economy/)  Bloomberg Economy News Browser 
 
 ### Basic
 __navigate__:     left `j`, right `l`  
 __page__:         down `d`, up `e`  
 __zoom__:         larger `h`, smaller `n`  
 
-### Reading
+#### Reading
 `m` : load the next batch of stories  
 
 `k` : mark the current story as read and advance to next  
@@ -19,17 +19,17 @@ __zoom__:         larger `h`, smaller `n`
 
 `$` : remove all read stories    
 
-### Storage
+#### Storage
 `s` : save current state  
 `r` : restore last saved state   
   
-### Misc 
+#### Misc 
 `y` : activate and toggle the on-page interface layer  
 `#` : switch to alternate keyboard layout  
   
 ===
 
-## [![underscorejs](sites/underscorejs.png)](http://underscorejs.org/)  UnderscoreJS API Interface
+### [![underscorejs](sites/sq_underscore.png)](http://underscorejs.org/)  UnderscoreJS API Interface
   
 `k` : shuffle all cards  
   
@@ -45,7 +45,7 @@ __zoom__:         larger `h`, smaller `n`
 
 ===
 
-## [![unity3d](sites/unity3d.png)](http://docs.unity3d.com/Documentation/ScriptReference/index.html)  Unity3D API Interface
+### [![unity3d](sites/sq_unity.png)](http://docs.unity3d.com/Documentation/ScriptReference/index.html)  Unity3D API Interface
   
 `/` : search class  
 `#` : search attribute  
@@ -58,6 +58,6 @@ __zoom__:         larger `h`, smaller `n`
 
 
 ===
-#### [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)
+##### [FAQ](https://github.com/xfosdev/SpeedReader/blob/master/FAQ.md)
   
 ###### *[Send Feedback](https://github.com/xfosdev/SpeedReader/issues)*
