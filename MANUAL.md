@@ -3,7 +3,7 @@ Speed Reader User Manual
 
   
   
-# [![bloomberg](sites/sq_bloomberg.png)](http://www.bloomberg.com/news/economy/) Bloomberg Economy 
+# [![bloomberg](sites/sq_bloomberg.png)](http://www.bloomberg.com/news/economy/) Economy News
 
 ### Basic
 __navigate__:     left `j`, right `l`  
@@ -30,7 +30,7 @@ __zoom__:         larger `h`, smaller `n`
   
 ===
 
-# [![underscorejs](sites/sq_underscore.png)](http://underscorejs.org/)  UnderscoreJS API
+# [![underscorejs](sites/sq_underscore.png)](http://underscorejs.org/)  JS API
   
 `k` : shuffle all cards  
   
