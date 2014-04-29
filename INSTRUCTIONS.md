@@ -5,7 +5,7 @@ Speed Reader Quick Start
 
 - visit [![unity3d](sites/unity3d.png)](http://docs.unity3d.com/Documentation/ScriptReference/index.html) 
 
-- click ![widget](sites/widget.png)
+- click ![widget](sites/widget29.png)
 
 ### Unity3D API Interface
   
