@@ -1,9 +1,9 @@
 Speed Reader Quick Start
 ========================
 
-- [Install](http://testacoda.xfos.net:5252/sa/)
+- <a href="http://testacoda.xfos.net:5252/sa/" target="_blank">Install</a>
 
-- visit [![unity3d](sites/unity3d.png)](http://docs.unity3d.com/Documentation/ScriptReference/index.html) 
+- visit <a href="http://docs.unity3d.com/Documentation/ScriptReference/index.html" target="_blank"><img src="sites/unity3d.png"></img></a>
 
 - click ![widget](sites/widget29.png)
 
