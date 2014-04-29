@@ -2,8 +2,7 @@ Speed Reader User Manual
 ======================== 
 
   
-  
-# [![bloomberg](sites/sq_bloomberg.png)](http://www.bloomberg.com/news/economy/) Economy News
+# <a href="http://www.bloomberg.com/news/economy/" target="_blank"><img src="sites/sq_bloomberg.png"></img></a> Economy News
 
 ### Basic
 __navigate__:     left `j`, right `l`  
@@ -30,7 +29,7 @@ __zoom__:         larger `h`, smaller `n`
   
 ===
 
-# [![underscorejs](sites/sq_underscore.png)](http://underscorejs.org/)  JS API
+# <a href="http://underscorejs.org/" target="_blank"><img src="sites/sq_underscore.png"></img></a> JS API
   
 `k` : shuffle all cards  
   
@@ -46,8 +45,9 @@ __zoom__:         larger `h`, smaller `n`
 
 ===
 
-# [![unity3d](sites/sq_unity.png)](http://docs.unity3d.com/Documentation/ScriptReference/index.html)  Unity3D API
-  
+# <a href="http://docs.unity3d.com/Documentation/ScriptReference/index.html" target="_blank"><img src="sites/sq_unity.png"></img></a> Unity3D API
+
+
 `/` : search class  
 `#` : search attribute  
   
