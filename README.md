@@ -1,7 +1,7 @@
 Speed Reader
 ============
 
-[Install](http://testacoda.xfos.net:5252/sa/)  
+<a href="http://testacoda.xfos.net:5252/sa/" target="_blank">Install</a>
 
 an automated information manipulator built on [OpenFox](https://github.com/xfosdev/OpenFox).  
 
