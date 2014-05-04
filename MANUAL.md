@@ -12,6 +12,8 @@ Speed Reader User Manual
 `r` : select random attribute  
 `f` : select random function  
 
+`h` : turn left
+`n` : turn right
   
 ===
   
