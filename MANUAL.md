@@ -1,6 +1,19 @@
 Speed Reader User Manual
 ======================== 
 
+# <a href="http://docs.unity3d.com/Documentation/ScriptReference/index.html" target="_blank"><img src="sites/sq_unity.png"></img></a> Unity3D API
+
+
+`/` : search class  
+`#` : search attribute  
+  
+`@` : select class  
+  
+`r` : select random attribute  
+`f` : select random function  
+
+  
+===
   
 # <a href="http://www.bloomberg.com/news/economy/" target="_blank"><img src="sites/sq_bloomberg.png"></img></a> Economy News
 
@@ -42,20 +55,6 @@ __zoom__:         larger `h`, smaller `n`
 `,` : show all cards  
   
 
-
-===
-
-# <a href="http://docs.unity3d.com/Documentation/ScriptReference/index.html" target="_blank"><img src="sites/sq_unity.png"></img></a> Unity3D API
-
-
-`/` : search class  
-`#` : search attribute  
-  
-`@` : select class  
-  
-`r` : select random attribute  
-`f` : select random function  
-  
 
 
 ===
